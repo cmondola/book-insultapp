@@ -6,7 +6,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 
 @RequestScoped
-@RequestScoped
 @Path("/insult")
 public class InsultResource {
 	@GET()
